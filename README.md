@@ -4,7 +4,7 @@ A virtual fruit fly whose brain is wired from the real **FlyWire whole-brain con
 It smells a female's pheromones, becomes aroused, and chases her around an arena.
 Silence a neuron type and the behavior breaks, the same way it does in real experiments.
 
-https://github.com/USER/courtship-in-silico/assets/... ← drag results/courtship_demo.mp4 into this README on GitHub to embed the video
+https://github.com/user-attachments/assets/33276cd4-c84f-4422-92d6-03dcda9fcddc
 
 ## How it works
 
